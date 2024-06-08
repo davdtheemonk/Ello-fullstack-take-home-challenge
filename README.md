@@ -1,4 +1,4 @@
-# Ello fullstack engineering challenge solution
+# Ello engineering challenge solution
 
 👋 Hello, this is a teachers view. It allows teachers to search for books, add them to a reading list, and manage the reading list.
 
