@@ -14,6 +14,15 @@ root.render(
   <React.StrictMode>
     <ApolloProvider client={client}>
       <BookProvider>
+        {/* BookProvider provides the BooksContext to the React component tree.
+          This allows any component within the tree to access the book-related state and functionality.
+          
+          The BookProvider manages:
+          - `allBooks`: A list of all books retrieved from the GraphQL API.
+          - `readingList`: A list of books added to the user's reading list.
+          - `setReadingList`: A function to update the reading list.
+          - `loading`: A boolean indicating if the books are currently being fetched.
+          - `error`: Any error that occurred while fetching the books. */}
         <App />
       </BookProvider>
     </ApolloProvider>
