@@ -39,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```bash
 git clone https://github.com/davdtheemonk/Ello-fullstack-take-home-challenge.git
-cd Ello-fullstack-challenge
+cd Ello-fullstack-take-home-challenge
 ```
 
 2. Frontend Installation
