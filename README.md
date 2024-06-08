@@ -1,6 +1,6 @@
 # Ello fullstack engineering challenge
 
-👋 Hello, This is a teachers view. It allows teachers to search for books, add them to a reading list, and manage the reading list.
+👋 Hello, this is a teachers view. It allows teachers to search for books, add them to a reading list, and manage the reading list.
 
 Here's how the app looks like
 
