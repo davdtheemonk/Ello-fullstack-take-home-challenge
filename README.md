@@ -1,11 +1,10 @@
-# Ello fullstack engineering challenge
+# Ello fullstack engineering challenge solution
 
 👋 Hello, this is a teachers view. It allows teachers to search for books, add them to a reading list, and manage the reading list.
 
 Here's how the app looks like
 
 https://github.com/davdtheemonk/Ello-fullstack-take-home-challenge/assets/83953506/5cb29415-4e64-4e73-bd6c-042434005dba
-
 
 ## Table of Contents
 
