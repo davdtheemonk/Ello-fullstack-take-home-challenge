@@ -2,6 +2,11 @@
 
 👋 Hello, This is a teachers view built with React, TypeScript, and Apollo Client. It allows teachers to search for books, add them to a reading list, and manage their reading list.
 
+Here's how the app looks like
+
+https://github.com/davdtheemonk/Ello-fullstack-take-home-challenge/assets/83953506/5cb29415-4e64-4e73-bd6c-042434005dba
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -79,3 +84,5 @@ The backend server should now be running at http://localhost:4000.
 - TypeScript
 - Apollo Client
 - Material-UI
+
+  I look forward to hearing from you..
