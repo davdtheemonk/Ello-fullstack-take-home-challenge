@@ -11,7 +11,7 @@
     "lint-fix": "npm run lint -- --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "David Mugalla",
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.10.4",
