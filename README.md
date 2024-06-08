@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/davdtheemonk/Ello-fullstack-challenge.git
+git clone https://github.com/davdtheemonk/Ello-fullstack-take-home-challenge.git
 cd Ello-fullstack-challenge
 ```
 
