@@ -19,7 +19,7 @@ https://github.com/davdtheemonk/Ello-fullstack-take-home-challenge/assets/839535
 - Search for books using a MUI search component.
 - Add books to a personalized reading list.
 - Remove books from the reading list.
-- Display detailed information about each book, including title, author, cover photo, and reading level.
+- Display detailed information about each book, including title, author, cover photo
 - Responsive and user-friendly interface.
 - Error handling,try turning off the backend server and refresh the browser
 
