@@ -3,7 +3,6 @@ import { ReactNode } from "react";
 export interface Book {
   title: string;
   author: string;
-  setSelectedBook?: React.Dispatch<React.SetStateAction<string>>;
   coverPhotoURL: string;
   readingLevel: string;
 }
