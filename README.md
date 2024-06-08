@@ -22,6 +22,7 @@ https://github.com/davdtheemonk/Ello-fullstack-take-home-challenge/assets/839535
 - Remove books from the reading list.
 - Display detailed information about each book, including title, author, cover photo, and reading level.
 - Responsive and user-friendly interface.
+- Erro handling, turn off backend server and refresh the browser
 
 ## Getting Started
 
